@@ -31,10 +31,10 @@ An exhaustive collection of words as json files for easy access.
 > [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 ## Example file 🎃
-path: `B/Beautiful.json` (first letter needs to be capitalized)
+path: `b/Firsthelp.json` (first letter needs to be capitalized)
 ```json
 {
-    "word": "Beautiful",
+    "word": "Firsthelp",
     "definitions": [
         "pleasing the senses or mind aesthetically",
         "of a very high standard; excellent"
